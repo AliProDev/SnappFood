@@ -32,3 +32,7 @@ Trx output for use in CICD for Jenkins or Gitlab action
 # Necessary requirements to execute the code
 1. Visual Studio
 2. Chrome browser version 101.0.4951.67
+
+# Test result
+![1](https://user-images.githubusercontent.com/98771741/170026605-ffc9896f-7b53-4d17-8082-9bd61a9a1129.png)
+
